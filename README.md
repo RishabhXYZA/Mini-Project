@@ -81,6 +81,3 @@ Python | Data Science | Machine Learning 🚀
 
 GitHub: [RishabhXYZA](https://github.com/RishabhXYZA)
 
-
-
-Just say it 😄
