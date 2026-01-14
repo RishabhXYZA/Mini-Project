@@ -34,9 +34,9 @@ The computer randomly selects a number between **1 and 100**, and the player has
 ```
 number-guessing-game/
 │
-├── main.py          # Main game logic
-├── logoart.py       # ASCII logo file
-└── README.md        # Project documentation
+├── NumberGuessing.py          # Main game logic
+├── logoart.py                 # ASCII logo file
+└── README.md                  # Project documentation
 ```
 
 
