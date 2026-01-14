@@ -25,29 +25,6 @@ This structure keeps the repository **clean, scalable, and easy to extend** as n
   * Software Development
 
 
-
-## 🗂️ Repository Structure
-
-```
-Mini-Project/
-│
-├── project-01/
-│   ├── main.py
-│   └── README.md
-│
-├── project-02/
-│   ├── main.py
-│   └── README.md
-│
-├── project-03/
-│   ├── main.py
-│   └── README.md
-│
-├── create_project.py
-└── README.md
- 
-```
-
 > 📌 Each project folder contains its **own documentation**, usage instructions, and explanation.
 
 
