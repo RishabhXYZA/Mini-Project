@@ -31,19 +31,21 @@ This structure keeps the repository **clean, scalable, and easy to extend** as n
 ```
 Mini-Project/
 │
-├── project-1/
+├── project-01/
 │   ├── main.py
 │   └── README.md
 │
-├── project-2/
+├── project-02/
 │   ├── main.py
 │   └── README.md
 │
-├── project-3/
+├── project-03/
 │   ├── main.py
 │   └── README.md
 │
-└── README.md   # (This file)
+├── create_project.py
+└── README.md
+ 
 ```
 
 > 📌 Each project folder contains its **own documentation**, usage instructions, and explanation.
