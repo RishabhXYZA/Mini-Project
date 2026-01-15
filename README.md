@@ -77,7 +77,7 @@ This structure keeps the repository **clean, scalable, and easy to extend** as n
 ## 👨‍💻 Author
 
 **Rishabh Bhasin**
-**Python | Data Science | Machine Learning 🚀**
+| Python | Data Science | Machine Learning 🚀
 
 GitHub: [RishabhXYZA](https://github.com/RishabhXYZA)
 
