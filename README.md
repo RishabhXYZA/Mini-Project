@@ -1,4 +1,4 @@
-# 🧩 Mini Projects Repository (Python)
+# 🧩 Mini Projects Repository
 
 This repository is a curated collection of **Python mini projects** created to practice and demonstrate **core programming concepts**, problem-solving skills, and foundational computer science ideas.
 
